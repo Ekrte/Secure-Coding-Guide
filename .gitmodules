@@ -4,3 +4,6 @@
 [submodule "testcases/juliet-test-suite"]
 	path = testcases/juliet-test-suite
 	url = https://github.com/find-sec-bugs/juliet-test-suite
+[submodule "pmd_ruleset"]
+	path = pmd_ruleset
+	url = https://github.com/k2d2o2/PMD_custom_security_rule.git
