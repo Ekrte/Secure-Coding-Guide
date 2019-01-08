@@ -1,0 +1,3 @@
+[submodule "find-sec-bugs"]
+	path = find-sec-bugs
+	url = https://github.com/Ekrte/find-sec-bugs
