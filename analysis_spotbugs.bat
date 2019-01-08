@@ -5,7 +5,7 @@ chcp 65001
 rem Change to UTF-8 encoding
 
 SET RESULT_DIR=%~dp0result\
-SET SPOTBUS=%~dp0spotbugs\bin\spotbugs.bat
+SET SPOTBUS=%~dp0bin_spotbugs\bin\spotbugs.bat
 SET PLUGIN=-pluginList %~dp0findsecbugs-plugin-old.jar
 SET FLAGS=-textui %PLUGIN% -xml -low
 
